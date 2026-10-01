@@ -1,0 +1,5 @@
+{
+  "feishu_webhook": "https://open.feishu.cn/open-apis/bot/v2/hook/YOUR_HOOK_ID",
+  "check_interval": 60,
+  "ctprip_url": "https://m.ctrip.com/webapp/ctrip/membership/match"
+}
